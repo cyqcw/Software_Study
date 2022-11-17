@@ -9,7 +9,7 @@
   cyqcw@foxmail.com
 
 
-'''#include <stdio.h>
+```#include <stdio.h>
 #include <stdlib.h>
 #define MAX 100
 typedef struct node{
@@ -117,4 +117,4 @@ int main(){
     printf("%d\n",BFS(G,0,3,3));
     return 0;
 }
-'''
+```
